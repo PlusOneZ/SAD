@@ -8,7 +8,7 @@ Advices:
 
 1. Scoping your system.
 2. Make your use cases valuable ( and / or profitable ).
-3. Do usefule analysis and design.
+3. Do useful analysis and design.
 
 
 
